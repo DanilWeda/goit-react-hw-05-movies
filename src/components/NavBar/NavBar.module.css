@@ -1,0 +1,12 @@
+.static {
+  font-size: 18px;
+  padding: 12px;
+  text-decoration: none;
+  color: #000
+}
+
+.active {
+  font-size: 18px;
+  padding: 12px;
+  color:red;
+}
